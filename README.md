@@ -1,14 +1,8 @@
 # README 
 
-Author: Shreyas Prasad
-Class: CS 7180 - Advanced Perception
-Semester: Fall 2023
-
-Assignment 2: Color Constancy, Shadow Removal, or Intrinsic Imaging
-
 ## Description
 
-This assignment is a implementation of the paper Color Constancy Using CNNs by Simone Bianco, Claudio Cusano, and Raimondo Schettini. The paper can be found [here](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W03/papers/Bianco_Color_Constancy_Using_2015_CVPR_paper.pdf). 
+This is a implementation of the paper Color Constancy Using CNNs by Simone Bianco, Claudio Cusano, and Raimondo Schettini. The paper can be found [here](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W03/papers/Bianco_Color_Constancy_Using_2015_CVPR_paper.pdf). 
 
 
 ## Usage
